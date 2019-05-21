@@ -2,7 +2,7 @@ const database = [
     {
         firstName: 'Sam',
         lastName: 'Marston',
-        username: 'sammarston15',
+        username: 'marston',
         password: 'password',
     },
     {
